@@ -1,6 +1,7 @@
 # Hello :)
 
-I am Karpov Gennadiy 18 years old, a programmer and data scientist/ML-dev from Russia. I have some knowledge in: NLP, CV, Neurotech, Python, Flask, PyQT, C/C++, algorithms and math. Now i am styding at FEFU at "applied mathematics and computer science".
+I am Karpov Gennadiy 18 years old, i am styding at FEFU at "applied mathematics and computer science".
+Have some knowledge in: Python (flask, PyQT, PyTorch, etc...) C/C++, Neurotech, NLP, CV
 
 
 Contacts: [Telegram](https://t.me/riko125)
