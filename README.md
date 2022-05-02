@@ -8,7 +8,7 @@ Languages: Python, C/C++, C#
 
 Web: Django, Flask, sockets, html/css
 
-AI&ML: PyTorch, Pandas, Word2vec/Doc2vec/Fasttext SimpleTransformers, Sklearn, Catboost
+AI&ML: PyTorch, Pandas, Word2vec/Doc2vec/Fasttext, SimpleTransformers, Sklearn, Catboost
 
 Desktop: PyQT
 
