@@ -8,6 +8,6 @@ Web: Django, Flask, sockets, html/css
 AI&ML: PyTorch, Pandas, Word2vec/Doc2vec/Fasttext SimpleTransformers, Sklearn, Catboost
 Desktop: PyQT
 
-Other skills: Photoshop, OOP patterns, algorithms, 
+Other skills: Photoshop, OOP patterns, algorithms
 
 Contacts: [Telegram](https://t.me/riko125)
