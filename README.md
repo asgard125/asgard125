@@ -6,11 +6,13 @@ Skills:
 
 Languages: Python, C/C++, C#
 
-Web: Django, Flask, sockets, html/css
+Web backend: Django, Flask, sockets
+
+Web frontend: Vue 3, html/css/js
 
 AI&ML: PyTorch, Pandas, Word2vec/Doc2vec/Fasttext, SimpleTransformers, Sklearn, Catboost
 
-Desktop: PyQT
+Desktop: PyQT, Electron
 
 
 Other skills: Photoshop, OOP patterns, algorithms
