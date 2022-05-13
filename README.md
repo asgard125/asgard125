@@ -6,7 +6,7 @@ Skills:
 
 Languages: Python, C/C++, C#
 
-Web backend: Django, Flask, sockets
+Web backend: Django 3, Flask, sockets
 
 Web frontend: Vue 3, html/css/js
 
