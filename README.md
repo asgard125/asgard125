@@ -8,7 +8,7 @@ Languages: Python, C/C++, C#
 
 Web backend: Django 3, Flask, sockets
 
-Web frontend: Vue 3, html/css/js
+Web frontend: Vue 3, html/css/js, Bootstrap
 
 AI&ML: PyTorch, Pandas, Word2vec/Doc2vec/Fasttext, SimpleTransformers, Sklearn, Catboost
 
